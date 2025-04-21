@@ -1,31 +1,31 @@
-## Olá, eu sou Diego Araújo 👋
+# Diego de Aráujo
+**Seja bem-vindo ao meu perfil!**
+> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
-- 🔭 Hoje sou analista de dados
-- 🌱 Semre buscando aperfeiçoamento em fundamentos e ferramentas da area.
-- 😄 Pronouns: Ele/Dele
+👋 Oi! Sou um entusiasta de dados, sempre curioso por entender como tudo se conecta por trás dos números.
+📊 Estou trilhando meu caminho como Analista de Dados, mexendo com ETL, PostgreSQL, Pentaho e o que mais der pra automatizar!
+🚀 Curto transformar dados bagunçados em algo que faça sentido (e gere valor!).
+💡 Sempre estudando, testando coisas novas e montando projetos que me desafiem de verdade.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-araujo-camara/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.acamara@outlook.com.br)
+---
+## 🤖 Linguagens e Tecnologias
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/>
 
-
-<div >
-  <a href="https://github.com/Daraujocamara">
-  <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=DiegoCamaraDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCamaraDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  
-</div>
-  
-  ##
-  
-  <div> 
-  
-  <a href="https://www.instagram.com/diego.acamara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:diego.camara@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diego-ara%C3%BAjo-c%C3%A2mara-b2b996232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
+---
+## 📊 Estatísticas
+| ![Eliseu GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliseufesantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseufesantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
 
