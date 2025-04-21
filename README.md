@@ -1,7 +1,7 @@
 ## Olá, eu sou Diego Araújo 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascript
+- 🔭 Hoje sou analista de dados
+- 🌱 Semre buscando aperfeiçoamento em fundamentos e ferramentas da area.
 - 😄 Pronouns: Ele/Dele
 
 
